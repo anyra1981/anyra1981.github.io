@@ -1,0 +1,44 @@
+{
+  "lunes": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "3 huevos cocidos\n1 Tomate Natural",
+    "cena": "200gr de Ternera (Filete, Solomillo, Picada...)\n1 Ensalada Verde"
+  },
+  "martes": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "200gr de Ternera (Filete, Solomillo, Picada...)\n1 Ensalada Verde",
+    "cena": "150gr de Jamón de York\n1 Yogur Desnatado"
+  },
+  "miercoles": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "Ensalada de Tomate y Apio\n1 Naranja",
+    "cena": "2 Huevos Cocidos\n100gr de York y \nLechuga"
+  },
+  "jueves": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "1 huevo cocido\n3 zanahorias ralladas\n150gr de York",
+    "cena": "Piña en su Jugo\n1 Yogur desnatado"
+  },
+  "viernes": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "200gr de Pescado Blanco\n1 Tomate en rodajas",
+    "cena": "200gr de Ternera a la Plancha"
+  },
+  "sabado": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "250gr de Pechuga de Pollo a la Plancha\n1 Limón exprimido",
+    "cena": "2 huevos cocidos\n3 zanahorias ralladas"
+  },
+  "domingo": {
+    "wake_up": "Hoy toca ayuno intermitente\nAgua, Limón y Café",
+    "desayuno": "1 Rebanada de pan 100% Integral\nBatido de Proteina Whey",
+    "comida": "200gr de Ternera a la Plancha\n1 Naranja",
+    "cena": "2 huevos cocidos\n3 zanahorias ralladas"
+  }
+}
